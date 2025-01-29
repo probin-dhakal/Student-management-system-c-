@@ -152,7 +152,7 @@ int main() {
 
     char choice;
     do {
-        system("cls"); // Clear screen (works on Windows)
+        system("cls"); 
         int op;
         cout << " ------------------------------" << endl;
         cout << "   Student Management System" << endl;
